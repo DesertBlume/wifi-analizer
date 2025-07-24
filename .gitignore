@@ -1,0 +1,5 @@
+.venv/
+venv/
+frames/
+
+redacted_backup/
