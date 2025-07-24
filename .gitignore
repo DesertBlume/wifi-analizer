@@ -1,5 +1,10 @@
 .venv/
 venv/
 frames/
-
+frames/
 redacted_backup/
+plots/
+wifi_logs/
+wifi_roaming_logs/
+wifi_surveys/
+ap_lock_test_logs/
